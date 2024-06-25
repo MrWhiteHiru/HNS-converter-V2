@@ -23,7 +23,7 @@
 [ Windows ]
 
 ```
-[Download ZIP](https://github.com/MrWhiteHiru/HNS-converter-V2/archive/refs/heads/main.zip) and extract it.
+Download ZIP file and extract it.
 
 ```
 
