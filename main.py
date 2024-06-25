@@ -18,7 +18,7 @@ blink = "\033[5;92m" # blink
 
 def main():
 	def banner():
-		os.system("clear")
+		os.system("cls")
 		print(g+"""
 ██╗  ██╗   ███╗  ██╗    ██████╗    █████╗
 ██║  ██║   ████╗ ██║   ██╔════╝   ██╔══██╗
@@ -27,7 +27,7 @@ def main():
 ██║  ██║ # ██║ ╚███║ # ██████╔╝ # ╚█████╔╝
 ╚═╝  ╚═╝   ╚═╝  ╚══╝   ╚═════╝     ╚════╝ 
 """+reset)
-		print("                         "+y+"                        # coded by "+g+"MR WHITE HIRU"+reset)
+		print(y+"                 # coded by "+g+"MR WHITE HIRU"+reset)
 
 	banner()
 	print(pi+"""       \n\n"""+y+"<-----"+g+""" FROM """+y+"""----->"""+reset+"\n\n"+s_b+"""[1] """+y+"""->"""+g+""" Binary"""+reset+"""\n"""+pi+s_b+"""[2] """+y+"""->"""+g+""" Decimal"""+reset+"\n"+s_b+"""[3] """+y+"""->"""+g+""" Octal"""+reset+"""\n"""+s_b+"""[4] """+y+"""->"""+g+""" Hexadecimal"""+reset)
