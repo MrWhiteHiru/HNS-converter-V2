@@ -24,7 +24,6 @@
 
 ```
 Download ZIP file and extract it.
-
 ```
 
 ```
